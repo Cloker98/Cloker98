@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👋 Hi, I’m @Cloker98
-👀 I’m interested in Python, JavaScript, MQL5 and JAVA
-🌱 I’m currently learning how to trade using Python
+- 👋 I’m @Cloker98
+- 👀 I’m interested in Python, JavaScript, MQL5 and JAVA
+- 🌱 I’m currently learning how to trade using Python
 <!--
 **Cloker98/Cloker98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
